@@ -1,0 +1,1 @@
+Simple WebGL app, which demonstrate IE11 and Edge bug with two attribute pointers in one array buffer.
